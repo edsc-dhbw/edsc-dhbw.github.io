@@ -24,5 +24,8 @@ EDSC-4C offers (and plans to offer) Cloud services on the following level:
 * Data as a Service (DataaaS) 
 * ELaaS (eLearning as a Service) 
 
+## YouTube Channel
+
+Videos and tutorials are available [here](https://www.youtube.com/channel/UCyFnEhd8rT7dUJCDP-UYYHA).
 
 
