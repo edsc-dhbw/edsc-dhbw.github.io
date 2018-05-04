@@ -1,6 +1,6 @@
 # Enterprise Data Science Center - DHBW Mannheim
 
-The Enterprise Data Science Center (EDSC) at [DBHW Mannheim](http://www.dhbw-mannheim.de) was established to offer services for and to contribute to the evolution of data science. Based on technologies like Cloud Computing and Internet-of-Things, the extraction of knowlegde from BigData sources - within an enterprise or external - will be the base for future success of an enterprise in the era of digitalisation. Industrie4.0 can be seen as an approach to combine the technologies in a future adaptive IT world. With the focus to support a better human-controlled real-time decision making process by providing knowledge from data analysis of diverse data sources and thousands of sensor running on a managed scalable and fault-tolerant infrastructure, the EDSC will significantly contribute to the development of reliable components for the future enterprise IT.  
+The Enterprise Data Science Center (EDSC) at [DBHW Mannheim](http://www.dhbw-mannheim.de) was established to offer services for and to contribute to the evolution of data science. Based on technologies like Cloud Computing and Internet-of-Things (IoT), the extraction of knowlegde from BigData sources - within an enterprise or external - will be the base for future success of an enterprise in the era of digitalisation. Industrie4.0 can be seen as an approach to combine the technologies in a future adaptive IT world. With the focus to support a better human-controlled real-time decision making process by providing knowledge from data analysis of diverse data sources and thousands of sensor running on a managed scalable and fault-tolerant infrastructure, the EDSC will significantly contribute to the development of reliable components for the future enterprise IT.  
 
 Services will be offered for all members of the DHBW for 
 * education and lecture purposes
@@ -22,4 +22,7 @@ EDSC-4C offers (and plans to offer) Cloud services on the following level:
 * Infrastructure as a Service (IaaS)
 * Software as a Service (SaaS)
 * Data as a Service (DataaaS) 
-* ELaaS (eLearning as a Service)  
+* ELaaS (eLearning as a Service) 
+
+
+
