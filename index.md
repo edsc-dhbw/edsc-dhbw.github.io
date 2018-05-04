@@ -30,6 +30,19 @@ EDSC-4C offers (and plans to offer) Cloud services on the following level:
 
 See the [quick tutorial](tutorials/quick-start.html).
 
+## News
+
+<ul>
+	{% for post in site.posts limit:3 %}
+		<li>
+		<a href="{{ post.url }}">{{ post.title }}</a>
+		{{ post.excerpt }}
+		</li>
+	{% endfor %}
+</ul>
+
+A list of all posts is available [here](blog.html).
+
 ## YouTube Channel
 
 Videos and tutorials are available [here](https://www.youtube.com/channel/UCyFnEhd8rT7dUJCDP-UYYHA).
