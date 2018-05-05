@@ -36,7 +36,7 @@ See the [quick tutorial](tutorials/quick-start.html).
 	{% for post in site.posts limit:3 %}
 		<li>
 		<a href="{{ post.url }}">{{ post.title }}</a>
-		{{ post.excerpt }}
+		{{ post.excerpt | strip_html | truncatewords:50 }}
 		</li>
 	{% endfor %}
 </ul>
