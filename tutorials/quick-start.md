@@ -7,7 +7,11 @@ Das Cloud Computing Competence Center (4C) bietet eine OpenStack Cloud Infrastru
 * Konfiguration von [Netzwerken](https://youtu.be/DL6UnDuApPs) 
 * Sicherheitskonzepte im EDSC
 * Starten von Instanzen
-  * Verbinden mit Instanzen
+  * Alle Instanzen in einem projekt-internen Netzwerk
+  * Verbinden mit Instanzen aus Labornetzwerk
+  * Instanzen die von anderen Standorten erreichbar sein sollen
 * Unterschiedliche Datendienste im 4C 
+  * Verwendung von Volumes in Instanzen 
 * Erzeugen von eigenen Images
+* Zugriff mit Hilfe von Kommandozeilen Tools
 * Sichern von eigenen Images und Volumes
