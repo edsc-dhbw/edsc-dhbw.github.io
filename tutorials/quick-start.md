@@ -9,6 +9,7 @@ Das Cloud Computing Competence Center (4C) bietet eine OpenStack Cloud Infrastru
 * Starten von Instanzen
   * Alle Instanzen in einem [projekt-internen Netzwerk](https://youtu.be/6KJihJKYxnM)
   * Verbinden mit [Instanzen aus Labornetzwerk](https://youtu.be/3jWIOlT3xzk)
+  * Verbinden mit [Instanzen in einem privaten Rechner-Cluster](https://youtu.be/7p3yZOE6V9Y)
   * Instanzen die von anderen Standorten erreichbar sein sollen
 * Unterschiedliche Datendienste im 4C 
   * Verwendung von Volumes in Instanzen 
