@@ -12,7 +12,7 @@ Das Cloud Computing Competence Center (4C) bietet eine OpenStack Cloud Infrastru
   * Verbinden mit [Instanzen in einem privaten Rechner-Cluster](https://youtu.be/JnGwbxwLgms)
   * Instanzen die von anderen Standorten erreichbar sein sollen
 * Unterschiedliche Datendienste im 4C 
-  * Verwendung des [ObjectStores](https://youtu.be/1GOblAqqfUg)
+  * Verwendung des [ObjectStores](https://youtu.be/oDMOjyyojIc)
   * Verwendung von [Volumes in Instanzen](https://youtu.be/be1mR1_mhlY)
   * Verwendung von [Volumes beim Booten](https://youtu.be/bemIUnaXmhA)
 * Erzeugen von eigenen Images
