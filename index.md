@@ -13,6 +13,7 @@ The [EDSC](http://www.edsc.dhbw-mannheim.de) contributes to the following resear
 * Adaptive Cloud Computing
 * (Industrial) Internet of Things
 * Big Data and complex event processing
+* Data Science and Analytics on Big Data
 * Industry 4.0
 * IT Security in connected systems
 
