@@ -15,6 +15,6 @@ Das Cloud Computing Competence Center (4C) bietet eine OpenStack Cloud Infrastru
   * Verwendung des [ObjectStores](https://youtu.be/oDMOjyyojIc)
   * Verwendung von [Volumes in Instanzen](https://youtu.be/be1mR1_mhlY)
   * Verwendung von [Volumes beim Booten](https://youtu.be/bemIUnaXmhA)
-* Erzeugen von eigenen Images
+  * Erzeugen von eigenen [Images](https://youtu.be/UdWTAoZBxRI)
 * Zugriff mit Hilfe von Kommandozeilen Tools
 * Sichern von eigenen Images und Volumes
