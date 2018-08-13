@@ -16,5 +16,5 @@ Das Cloud Computing Competence Center (4C) bietet eine OpenStack Cloud Infrastru
   * Verwendung von [Volumes in Instanzen](https://youtu.be/be1mR1_mhlY)
   * Verwendung von [Volumes beim Booten](https://youtu.be/bemIUnaXmhA)
   * Erzeugen von eigenen [Images](https://youtu.be/UdWTAoZBxRI)
-* Zugriff mit Hilfe von Kommandozeilen Tools
+* Zugriff mit Hilfe von [Kommandozeilen Tools](https://youtu.be/0Zue1Mz6BfE)
 * Sichern von eigenen Images und Volumes
