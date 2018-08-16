@@ -24,7 +24,7 @@ Das Cloud Computing Competence Center (4C) bietet eine OpenStack Cloud Infrastru
 Um die Konfiguration von größeren Cloud-basierten Infrastrukturen für die Lehre und Forschung zu vereinfachen bietet sich die Verwendung der Ansible Open Source Software an. In den folgenden Tutorials werden die Benutzer mit den Möglichkeiten von Ansible im Zusammenspiel mit der 4C Infrastruktur des EDSC vertraut gemacht. 
 
 * [Einführung und Installation](https://youtu.be/s7jB4FGF1Ps) von Ansible für 4C
-* Verwendung von Ansible-Playbooks zur Installation von einzelnen Knoten 
+* Verwendung von Ansible-Playbooks zur [Installation von einzelnen 4C-Knoten](https://youtu.be/qpVZ17XlXn0)
 * Verwendung von Ansbile-Playbooks zur Installation von komplexeren Rechner-Systemen innerhalb von 4C
 * Starten eines einfachen Hadoop-Cluster mit Ansible und der 4C Infrastruktur
 * 
